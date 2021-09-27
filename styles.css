@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Spartan", sans-serif;
+  font-size: 15px;
+}
+.container {
+  margin: 150px auto;
+}
+
+/********************************/
+/* Top Section */
+/********************************/
+
+/* Too Right Part */
+.top-section {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+.heading {
+  width: 30vw;
+}
+h1 {
+  color: hsl(300, 43%, 22%);
+  margin-bottom: 10px;
+}
+.heading p {
+  color: hsl(303, 10%, 53%);
+}
+/* Rate Boxes Design  */
+
+.rates {
+  background-color: hsl(300, 24%, 96%);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.rate-box {
+  padding: 10px 20px;
+}
+.stars {
+  margin-right: 20px;
+}
+/********************************/
+/* Footer Section */
+/********************************/
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 3rem;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* 
+Very Dark Magenta: hsl(300, 43%, 22%)
+Soft Pink: hsl(333, 80%, 67%)
+Dark Grayish Magenta: hsl(303, 10%, 53%)
+Light Grayish Magenta: hsl(300, 24%, 96%)
+White: hsl(0, 0%, 100%)
+*/
