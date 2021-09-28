@@ -8,6 +8,9 @@ Frontend Mentor challenge, missing the responsive design and the background imag
 
 # Screenshot
 
+![image](https://user-images.githubusercontent.com/82395036/135086574-3a2ef0d9-a896-49d9-a3a4-c1cc82914f24.png)
+
+
 # Links
 
 Solution URL: https://github.com/J-B-R-93/Social-Proof-Section-Master.git"
