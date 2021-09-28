@@ -15,7 +15,7 @@ Frontend Mentor challenge, missing the responsive design and the background imag
 
 Solution URL: https://github.com/J-B-R-93/Social-Proof-Section-Master.git"
 
-Live Site URL:
+Live Site URL: https://j-b-r-93.github.io/Social-Proof-Section-Master/
 
 # My Process
 
