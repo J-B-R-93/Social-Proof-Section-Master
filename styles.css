@@ -12,7 +12,8 @@ body {
 }
 .container {
   width: 130rem;
-  padding: 15rem 10rem;
+  margin: 15rem auto;
+  padding: 5rem 10rem;
 
   display: grid;
   grid-template-columns: repeat(2, 1fr);
